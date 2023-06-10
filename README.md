@@ -19,7 +19,7 @@ space and don't want to shut down my opportunity to become an astrophysicist one
   
 </br>
 
-## 📝 Skills:
+## 📝 Skills
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
@@ -59,5 +59,5 @@ space and don't want to shut down my opportunity to become an astrophysicist one
 
 ## 📈 GitHub Stats 
 
-[![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=AJWestley&theme=dracula)](https://github.com/AJWestley/github-readme-stats)
+[![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=AJWestley&exclude_repo=Teaching-Han&theme=dracula)](https://github.com/AJWestley/github-readme-stats)
 [![AJ's github stats](https://github-readme-stats.vercel.app/api?username=AJWestley&theme=dracula)](https://github.com/AJWestley)
