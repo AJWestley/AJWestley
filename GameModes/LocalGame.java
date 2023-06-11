@@ -30,7 +30,6 @@ public class LocalGame {
             while (stack_choice == Game.STACK_EMPTY) {
                 System.out.print("\nChoose a stack: ");
                 input = scanner.nextLine();
-                System.out.println("hello");
                 char s = input.charAt(0);
                 if (!Character.isDigit(s)) {
                     System.out.println("Invalid Stack");
