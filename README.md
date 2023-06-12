@@ -62,5 +62,5 @@ space and don't want to shut down my opportunity to become an astrophysicist one
 
 ## 📈 GitHub Stats 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=AJWestley&size_weight=0.25&count_weight=0.75&theme=algolia&show_icons=true)](https://github.com/AJWestley)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=AJWestley&size_weight=0.2&count_weight=0.8&layout=donut-vertical&theme=algolia&hide=PowerShell,Shell,Batchfile,Xonsh)](https://github.com/AJWestley)
 [![AJ's github stats](https://github-readme-stats.vercel.app/api?username=AJWestley&theme=algolia)](https://github.com/AJWestley)
