@@ -39,7 +39,7 @@ space and don't want to shut down my opportunity to become an astrophysicist one
 ![PyCharm](https://img.shields.io/badge/PyCharm-000000.svg?&style=for-the-badge&logo=PyCharm&logoColor=white)
 
 ## 🔭 Current Projects
-  - Othello board game with an AI and online play
+  - Command-line board game with an AI and online play
 
 ## 🌱 I'm Currently Learning
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
