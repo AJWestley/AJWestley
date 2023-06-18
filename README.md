@@ -40,13 +40,10 @@ space and don't want to shut down my opportunity to become an astrophysicist one
 
 ## 🔭 Current Projects
   - Command-line board game with an AI and online play
+  - Online Image Editor
 
 ## 🌱 I'm Currently Learning
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-</br>
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-</br>
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
   
 ## 📚 What Modules Am I Taking Right Now?
   - 💻 Web Design and Databases
