@@ -46,7 +46,7 @@ space and don't want to shut down my opportunity to become an astrophysicist one
     - RESTful API using Python and Flask
 
 ## 🌱 I'm Currently Learning
-- Quantum Computing
+- Nothing outside of classes
   
 ## 📚 What Modules Am I Taking Right Now?
   - 💻 Web Design and Databases
