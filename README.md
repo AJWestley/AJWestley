@@ -41,9 +41,11 @@ space and don't want to shut down my opportunity to become an astrophysicist one
 ![PyCharm](https://img.shields.io/badge/PyCharm-000000.svg?&style=for-the-badge&logo=PyCharm&logoColor=white)
 
 ## 🔭 Current Projects
-  - No personal projects.
+  - Personal Projects:
+    - My AI assistant, Aria
   - University Projects:
-    - RESTful API using Python and Flask
+    - Backend for a shared, live-edit document editor
+    - Frontend for a charity volunteering app
 
 ## 🌱 I'm Currently Learning
 - Nothing outside of classes
