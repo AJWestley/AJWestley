@@ -42,21 +42,21 @@ space and don't want to shut down my opportunity to become an astrophysicist one
 ## 🔭 Current Projects
   - Personal Projects:
     - My AI assistant, Aria
-  - University Projects:
-    - A two-lane traffic flow simulation
+    - A Fourier Transform Library in C
 
 ## 🌱 I'm Currently Learning
-- Nothing outside of classes
+  - C++
   
 ## 📚 What Modules Am I Taking Right Now?
-  - 💻 Web Design and Databases
-  - 🌌 Computational Physics
-  - 🧮 Partial Differential Equations and Fourier Analysis
+  - Nothing
+  
 
 ## 📚 Notable Modules I've Completed
   - 💻 Parallel Computing
   - 💻 Networks Programming
   - 🌌 Quantum Mechanics
+  - 🌌 Computational Physics
+  - 🧮 Fourier Analysis
 
 ## 📈 GitHub Stats 
 
