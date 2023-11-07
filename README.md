@@ -42,7 +42,7 @@ space and don't want to shut down my opportunity to become an astrophysicist one
 ## 🔭 Current Projects
   - Personal Projects:
     - My AI assistant, Aria
-    - A Fourier Transform Library in C
+    - A Fourier Transform Library in C++
 
 ## 🌱 I'm Currently Learning
   - C++
@@ -56,8 +56,8 @@ space and don't want to shut down my opportunity to become an astrophysicist one
   - 💻 Networks Programming
   - 🌌 Quantum Mechanics
   - 🌌 Computational Physics
-  - 🧮 Fourier Analysis
+  - 🧮 Applied Fourier Analysis
 
 ## 📈 GitHub Stats 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=AJWestley&size_weight=0.2&count_weight=0.8&layout=donut-vertical&theme=algolia&hide=PowerShell,Shell,Batchfile,Xonsh,MakeFile)](https://github.com/AJWestley)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=AJWestley&layout=donut-vertical&theme=algolia&hide=PowerShell,Shell,Batchfile,Xonsh,MakeFile,jupyter%20notebook)](https://github.com/AJWestley)
