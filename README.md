@@ -6,10 +6,10 @@
 Hi there, I'm <a href="https://ajwestley.me" target="_blank" rel="noreferrer">AJ</a> 👋
 </h3>
 <h2 align="center">
-I'm a Computer Science 💻 and Physics 🌌 Student!
+💻 I'm a Computer Science Student! 💻
 </h2> 
 
-I'm a 3rd year university student hoping to who loves to find out how the world works. During my holidays, I like to work on a couple projects, but 
+I'm a 3rd year university student who loves to find out how the world works. During my holidays, I like to work on a couple projects, but 
 during the semester, I put most of my time into my work and assignments. Truth be told, I'm only taking the second major in physics because I love 
 space and don't want to shut down my opportunity to become an astrophysicist one day.
 
