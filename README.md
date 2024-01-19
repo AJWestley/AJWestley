@@ -9,9 +9,9 @@ Hi there, I'm <a href="https://ajwestley.me" target="_blank" rel="noreferrer">AJ
 💻 I'm a Computer Science Student! 💻
 </h2> 
 
-I'm a 3rd year university student who loves to find out how the world works. During my holidays, I like to work on a couple projects, but 
-during the semester, I put most of my time into my work and assignments. Truth be told, I'm only taking the second major in physics because I love 
-space and don't want to shut down my opportunity to become an astrophysicist one day.
+I'm a final year university student who loves to find out how the world works. During my holidays, I like to work on a couple personal projects, but 
+during the semester, I put most of my time into my work and assignments. I love physics too, especially anything space related! I took physics as an 
+elective into my 3rd year of uni and loved every moment of it.
 
 ### 🤝 Get In Touch:
   <a href="https://www.linkedin.com/in/aj-westley-94b205258/"><img align="left" src="https://raw.githubusercontent.com/AJWestley/AJWestley/main/Images/linkedin.svg" alt="AJ | LinkedIn" width="21px"/></a>
@@ -23,7 +23,6 @@ space and don't want to shut down my opportunity to become an astrophysicist one
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
@@ -42,11 +41,10 @@ space and don't want to shut down my opportunity to become an astrophysicist one
 
 ## 🔭 Current Projects
   - Personal Projects:
-    - My AI assistant, Aria
-    - A Fourier Transform Library in C++
+    - A C Code Base-Layer
 
 ## 🌱 I'm Currently Learning
-  - C++
+  - Nothing really
   
 ## 📚 What Modules Am I Taking Right Now?
   - Nothing
