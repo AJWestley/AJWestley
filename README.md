@@ -49,7 +49,6 @@ elective into my 3rd year of uni and loved every moment of it.
 ## 🔭 Current Projects
   - Personal Projects:
     - A C Code Base-Layer
-    - Rewriting my personal website in React
 
 ## 🌱 I'm Currently Learning
   - Nothing really
