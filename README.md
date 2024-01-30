@@ -68,4 +68,4 @@ elective into my 3rd year of uni and loved every moment of it.
 
 ## 📈 GitHub Stats 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=AJWestley&layout=donut-vertical&theme=algolia&hide=PowerShell,Shell,Batchfile,Xonsh,MakeFile,SWIG,jupyter%20notebook)](https://github.com/AJWestley)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=AJWestley&layout=donut-vertical&theme=algolia&hide=PowerShell,Shell,Batchfile,Xonsh,MakeFile,SWIG,jupyter%20notebook,TeX)](https://github.com/AJWestley)
