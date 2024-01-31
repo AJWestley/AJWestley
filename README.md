@@ -52,8 +52,6 @@ elective into my 3rd year of uni and loved every moment of it.
 
 ## 🌱 I'm Currently Learning
   - ![Prolog](https://img.shields.io/badge/Prolog-C70039?style=for-the-badge&logo=gitlab&logoColor=white)
-  - ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-  - ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
   
 ## 📚 What Modules Am I Taking Right Now?
   - Nothing
