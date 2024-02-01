@@ -28,6 +28,7 @@ elective into my 3rd year of uni and loved every moment of it.
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
+![Prolog](https://img.shields.io/badge/Prolog-C70039?style=for-the-badge)
 ![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
 
 ### Academic & Data:
@@ -51,7 +52,7 @@ elective into my 3rd year of uni and loved every moment of it.
     - A C Code Base-Layer
 
 ## 🌱 I'm Currently Learning
-  - ![Prolog](https://img.shields.io/badge/Prolog-C70039?style=for-the-badge&logo=gitlab&logoColor=white)
+  - 
   
 ## 📚 What Modules Am I Taking Right Now?
   - Nothing
