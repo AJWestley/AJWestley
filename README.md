@@ -50,12 +50,16 @@ elective into my 3rd year of uni and loved every moment of it.
 ## 🔭 Current Projects
   - Personal Projects:
     - A C Code Base-Layer
+  - University Projects:
+    - A CNN model for classifying radio galaxies
 
 ## 🌱 I'm Currently Learning
-  - 
+  - Convolutional Neural Networks
   
 ## 📚 What Modules Am I Taking Right Now?
-  - Nothing
+  - 💻 Advanced Algorithms
+  - 💻 Cognitive Robotics
+  - 💻 Machine Learning
   
 
 ## 📚 Notable Modules I've Completed
