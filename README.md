@@ -34,14 +34,7 @@ elective into my 3rd year of uni and loved every moment of it.
 ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
-![SciPy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white)
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
-
-### Web Dev:
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 
 ### Other:
 ![Shell](https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
@@ -49,21 +42,24 @@ elective into my 3rd year of uni and loved every moment of it.
 
 ## 🔭 Current Projects
   - Personal Projects:
-    - A C Code Base-Layer
+    - None
   - University Projects:
     - A safe RL agent
 
 ## 🌱 I'm Currently Learning
-  - Reinforcement Learning
+  - Natural Language Processing
   
 ## 📚 What Modules Am I Taking Right Now?
-  - 💻 Advanced Algorithms
-  - 💻 Cognitive Robotics
-  - 💻 Machine Learning
+  - 💻 Data Science
+  - 💻 Space Science
+  - 💻 Quantum Computing
 
 ## 📚 Notable Modules I've Completed
   - 💻 Parallel Computing
   - 💻 Networks Programming
+  - 💻 Advanced Algorithms
+  - 💻 Cognitive Robotics
+  - 💻 Machine Learning
   - 🌌 Quantum Mechanics
   - 🌌 Computational Physics
   - 🧮 Applied Fourier Analysis
