@@ -6,12 +6,11 @@
 Hi there, I'm <a href="https://ajwestley.me" target="_blank" rel="noreferrer">AJ</a> 👋
 </h3>
 <h2 align="center">
-💻 I'm a Computer Science Student! 💻
+💻 I'm a Data Scientist! 💻
 </h2> 
 
-I'm a final year university student who loves to find out how the world works. During my holidays, I like to work on a couple personal projects, but 
-during the semester, I put most of my time into my work and assignments. I love physics too, especially anything space related! I took physics as an 
-elective into my 3rd year of uni and loved every moment of it.
+I'm fresh out of university and I love to find out how the world works. I like to work on personal projects in my spare time. 
+I love physics too, especially anything space related! I took physics as an elective into my 3rd year of uni and loved every moment of it.
 
 ### 🤝 Get In Touch:
   <a href="https://www.linkedin.com/in/aj-westley-94b205258/"><img align="left" src="https://raw.githubusercontent.com/AJWestley/AJWestley/main/Images/linkedin.svg" alt="AJ | LinkedIn" width="21px"/></a>
@@ -41,25 +40,17 @@ elective into my 3rd year of uni and loved every moment of it.
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
 
 ## 🔭 Current Projects
-  - Personal Projects:
-    - None
-  - University Projects:
-    - A safe RL agent
+  - None
 
 ## 🌱 I'm Currently Learning
   - Natural Language Processing
-  
-## 📚 What Modules Am I Taking Right Now?
-  - 💻 Data Science
-  - 💻 Space Science
-  - 💻 Quantum Computing
 
 ## 📚 Notable Modules I've Completed
-  - 💻 Parallel Computing
-  - 💻 Networks Programming
-  - 💻 Advanced Algorithms
-  - 💻 Cognitive Robotics
+  - 💻 Data Science
   - 💻 Machine Learning
+  - 💻 Space Science
+  - 💻 Quantum Computing
+  - 💻 Cognitive Robotics
   - 🌌 Quantum Mechanics
   - 🌌 Computational Physics
   - 🧮 Applied Fourier Analysis
