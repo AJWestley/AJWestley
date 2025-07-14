@@ -3,7 +3,7 @@
 </div>
 
 <h3 align="center">
-Hi there, I'm <a href="https://ajwestley.me" target="_blank" rel="noreferrer">AJ</a> 👋
+Hi there, I'm <a href="https://ajwestley.com" target="_blank" rel="noreferrer">AJ</a> 👋
 </h3>
 <h2 align="center">
 💻 I'm a Data Scientist! 💻
@@ -21,29 +21,45 @@ I love physics too, especially anything space related! I took physics as an elec
 ## 📝 Skills
 
 ### Languages:
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Prolog](https://img.shields.io/badge/Prolog-C70039?style=for-the-badge)
-![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?logo=python&logoColor=ffdd54)
+![C](https://img.shields.io/badge/C-00599C?logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-%2300599C.svg?logo=c%2B%2B&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
+![Java](https://img.shields.io/badge/Java-ED8B00?logo=openjdk&logoColor=white)
+![Prolog](https://img.shields.io/badge/Prolog-C70039)
+![SQLite](https://img.shields.io/badge/SQLite-07405E?logo=sqlite&logoColor=white)
 
 ### Academic & Data:
-![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
+![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?logo=latex&logoColor=white)
+![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?logo=pandas&logoColor=white)
+![Matplotlib](https://custom-icon-badges.demolab.com/badge/Matplotlib-71D291?logo=matplotlib&logoColor=fff)
+
+### Machine Learning:
+![Keras](https://img.shields.io/badge/Keras-D00000?logo=keras&logoColor=fff)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-ff8f00?logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-ee4c2c?logo=pytorch&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?logo=scikit-learn&logoColor=white)
+
+### Quantum Computing:
+![Qiskit](https://img.shields.io/badge/IBM_Qiskit-6929C4?logo=qiskit&logoColor=white)
+![PennyLane](https://img.shields.io/badge/PennyLane-0074E0)
+![OpenQASM](https://img.shields.io/badge/OpenQASM-02262B)
+
+### Web Dev:
+![React](https://img.shields.io/badge/React-%2320232a.svg?logo=react&logoColor=%2361DAFB)
+![Flask](https://img.shields.io/badge/Flask-000?logo=flask&logoColor=fff)
 
 ### Other:
-![Shell](https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
-![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?logo=gnubash&logoColor=fff)
+![Git](https://img.shields.io/badge/GIT-E44C30?logo=git&logoColor=white)
 
 ## 🔭 Current Projects
-  - None
+  - A Raspberry Pi Quantum Server
 
 ## 🌱 I'm Currently Learning
-  - Natural Language Processing
+  - Astrophysical Data Analysis
+  - Haskell
 
 ## 📚 Notable Modules I've Completed
   - 💻 Data Science
