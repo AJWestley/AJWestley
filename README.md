@@ -55,7 +55,7 @@ I love physics too, especially anything space related! I took physics as an elec
 ![Git](https://img.shields.io/badge/GIT-E44C30?logo=git&logoColor=white)
 
 ## 🔭 Current Projects
-  - A Raspberry Pi Quantum Server
+  - A diffusion model trained on GalaxyZoo images
 
 ## 🌱 I'm Currently Learning
   - Astrophysical Data Analysis
