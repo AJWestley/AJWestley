@@ -6,7 +6,7 @@
 Hi there, I'm <a href="https://ajwestley.com" target="_blank" rel="noreferrer">AJ</a> 👋
 </h3>
 <h2 align="center">
-💻 I'm a Data Scientist! 💻
+💻 I'm a Computer Scientist! 💻
 </h2> 
 
 I'm fresh out of university and I love to find out how the world works. I like to work on personal projects in my spare time. 
@@ -55,16 +55,15 @@ I love physics too, especially anything space related! I took physics as an elec
 ![Git](https://img.shields.io/badge/GIT-E44C30?logo=git&logoColor=white)
 
 ## 🔭 Current Projects
-  - A diffusion model trained on GalaxyZoo images
+  - An image generation model trained on GalaxyZoo images
 
 ## 🌱 I'm Currently Learning
-  - Astrophysical Data Analysis
-  - Haskell
+  - Introductory Nuclear and Particle Physics
 
 ## 📚 Notable Modules I've Completed
   - 💻 Data Science
   - 💻 Machine Learning
-  - 💻 Space Science
+  - 💻 Space Science Algorithms
   - 💻 Quantum Computing
   - 💻 Cognitive Robotics
   - 🌌 Quantum Mechanics
