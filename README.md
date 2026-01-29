@@ -9,8 +9,8 @@ Hi there, I'm <a href="https://ajwestley.com" target="_blank" rel="noreferrer">A
 💻 I'm a Computer Scientist! 💻
 </h2> 
 
-I'm fresh out of university and I love to find out how the world works. I like to work on personal projects in my spare time. 
-I love physics too, especially anything space related! I took physics as an elective into my 3rd year of uni and loved every moment of it.
+I'm a MSc Computer Science student doing research at the intersection between Radio Astronomy and AI.
+In my spare time I enjoy working on personal projects, all of which can be found here on my GitHub page.
 
 ### 🤝 Get In Touch:
   <a href="https://www.linkedin.com/in/aj-westley-94b205258/"><img align="left" src="https://raw.githubusercontent.com/AJWestley/AJWestley/main/Images/linkedin.svg" alt="AJ | LinkedIn" width="21px"/></a>
@@ -36,9 +36,9 @@ I love physics too, especially anything space related! I took physics as an elec
 ![Matplotlib](https://custom-icon-badges.demolab.com/badge/Matplotlib-71D291?logo=matplotlib&logoColor=fff)
 
 ### Machine Learning:
+![PyTorch](https://img.shields.io/badge/PyTorch-ee4c2c?logo=pytorch&logoColor=white)
 ![Keras](https://img.shields.io/badge/Keras-D00000?logo=keras&logoColor=fff)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-ff8f00?logo=tensorflow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-ee4c2c?logo=pytorch&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?logo=scikit-learn&logoColor=white)
 
 ### Quantum Computing:
